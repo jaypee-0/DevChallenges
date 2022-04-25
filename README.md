@@ -14,7 +14,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/solutions/kEaoRzxacj5XTKizpBQR">
       Challenge
     </a>
   </h3>
@@ -43,7 +43,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/solutions/kEaoRzxacj5XTKizpBQR) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
