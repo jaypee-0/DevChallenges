@@ -11293,6 +11293,7 @@ h2, .h2 {
 }
 
 footer {
+  margin-top: 3rem;
   color: #BDBDBD;
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
@@ -11327,6 +11328,10 @@ a:hover {
   }
   #def img {
     margin-bottom: 1rem;
+  }
+  footer {
+    margin-top: 0;
+    padding-bottom: 1rem !important;
   }
 }
 /*# sourceMappingURL=App.css.map */

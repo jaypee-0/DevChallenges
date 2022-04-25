@@ -29,6 +29,7 @@ h2 {
     font-size: 64px;
 }
 footer {
+    margin-top: 3rem;
     color: #BDBDBD;
     font-size: 14px;
     font-family: 'Montserrat', sans-serif;
@@ -59,5 +60,9 @@ a {
         img {
             margin-bottom: 1rem;
         }
+    }
+    footer {
+        margin-top: 0;
+        padding-bottom: 1rem!important;
     }
 }
