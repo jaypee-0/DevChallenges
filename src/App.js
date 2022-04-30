@@ -74,7 +74,7 @@ function App() {
               </div>
       </div>      
       <footer className='py-3'>
-      <p className='text-center'>created by <a href="https://bit.ly/jaypee-github" target="_blank">Jaypee</a> - devChallenges.io</p>
+      <p className='text-center'>created by <a href="https://bit.ly/jaypee-github" target="_blank" rel="noreferrer">Jaypee</a> - devChallenges.io</p>
       </footer>
     </>
   );
