@@ -1,0 +1,122 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=PT+Serif&family=Poppins&display=swap');
+
+#App {
+   h2{
+    font-family: 'PT Serif', serif;
+    font-weight: 800;
+    font-size: 36px;
+   }
+   .heading{
+       margin-bottom: 5.5rem;
+   }
+   .text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: black;
+        h5 {
+            font-weight: 900;
+        }
+        p {
+            width: 90%;
+        }
+    }
+    .img-fluidX {
+        width: 80%;
+        height: auto;
+        margin-bottom: 3rem;
+    }
+    .images {
+        gap: 2rem;
+    }
+    .imageMiddle,
+    .imageMiddle5 {
+        margin-top: 5rem;
+    } 
+    .name {
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        color: black;
+        font-weight: 600;
+        line-height: 27px;
+        margin-top: -2rem;
+    }
+    .profession{
+        transform: rotate(90deg);
+        left: 80%;
+        width: 100%;
+        transform-origin: 0 100%;
+        top: -6%;
+        font-family: 'PT Serif', serif;
+    }
+    .professionMid {
+        top: 15%;
+    }
+    .profession5{
+        top: 15%;
+    }
+}
+
+footer {
+    p {
+        color: #A9A9A9;
+        font-weight: 500;
+    }
+    a {
+        text-decoration: underline;
+        color: inherit;
+        font-weight: 600;
+        &:hover{
+            color: inherit;
+            font-weight: 700;
+        }
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 1920px) {
+    .container {
+        width: 70%;
+    }
+}
+@media screen and (max-width: 768px){
+    #App {
+        .text p {
+            width: 100%;
+        }
+        .images {
+            flex-wrap: wrap;
+            width: 100%;
+            gap: 0;
+        }
+        .imageMiddle {
+            margin-top: 4.5rem;
+        }
+        .img-fluidX {
+            width: 70%;
+            margin-bottom: 2rem;
+        }
+        .profession {
+            left: 70%;
+            font-size: 12px;
+        }
+        .imageRightDown{
+            margin-top: 5rem;
+        }
+        .imageMiddle5 {
+            margin-top: 0;
+        }
+        .name {
+            font-size: 14px;
+            margin-top: -1rem;
+        }    
+        .professionMid {
+            top: 15%;
+        }  
+        .profession5 {
+            top: -6%;
+        }
+        .profession6 {
+            top: 15%;
+        }  
+    }
+}
+
