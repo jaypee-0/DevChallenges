@@ -1,0 +1,95 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Lora&family=Montserrat&display=swap');
+#App {
+    background-color: black;
+    color: white;
+    .details {
+        padding-right: 3rem;
+    }
+    .herotext {
+        h2 {
+            font-family: 'Lora', serif; 
+            font-size: 40px;
+        }
+        align-self: center;
+        p {            
+        font-family: 'Montserrat Alternates', sans-serif;
+        font-size: 18px;
+        }
+        .readmore {
+          font-family: 'Montserrat Alternates', sans-serif;
+          font-size: 16px;
+        }
+    }
+    .personal-card {
+        left: 10%;
+        bottom: -15%;
+        background-color: black;
+        color: white;
+        .personal-card-photo{
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            margin-right: 2rem;
+        }
+        p {
+           font-family: 'Montserrat Alternates', sans-serif;
+           color: #828282;
+           font-size: 12px;
+        }
+        h3 {
+            width: 75%;
+            font-size: 24px;
+            font-family: 'Lora', serif;
+            font-weight: bold;
+        }
+    }
+    footer {
+        margin-top: 10rem;
+    }
+}
+footer {
+    p {
+        color: #A9A9A9;
+        font-weight: 500;
+    }
+    a {
+        text-decoration: underline;
+        color: inherit;
+        font-weight: 600;
+        &:hover{
+            color: inherit;
+            font-weight: 700;
+        }
+    }
+}
+@media screen and (max-width: 768px) {
+    #App {
+        
+    .herotext {
+        align-self: start;
+        font-size: 36px;
+        p {
+            font-size: 14px;
+        }
+    }
+    }
+    .details {
+        padding-right: 0;
+        margin-bottom: 0;
+    }
+    .personal-card {
+        left: 10%;
+        bottom: -25%;
+        width: 85%;
+        h3 {
+            width: 100%;
+            font-size: 18px;
+
+        }
+    }
+    .w-85{
+        width: 85%;
+    }
+
+}
