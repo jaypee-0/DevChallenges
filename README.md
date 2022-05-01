@@ -31,8 +31,7 @@
 
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/32205725/165076921-09128c0f-567b-40de-84d2-5f285e3485a5.jpg)
+![image](https://user-images.githubusercontent.com/32205725/166160709-bb1fe31e-4d47-41dc-8c8d-7a6bb269ce76.png)
 
 
 ### Built With
