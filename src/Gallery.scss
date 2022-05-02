@@ -1,0 +1,58 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+h3,
+h4{
+    color: #4E5150;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+}
+p{
+    font-size: 14px;
+}
+p.location {
+    color: #A9A9A9;
+}
+p.caption {
+    color: #BDBDBD;
+}
+img {
+    border-radius: 12px;
+    margin-top: 20px;
+}
+.photo4 {
+    width: 100%;
+    max-height: 93.5%;
+}
+.cardX {
+    border-radius: 12px;
+    background-color: #E5E5E5;
+    p {
+        margin-bottom: 0;
+    }
+}
+footer {
+    p {
+        color: #A9A9A9;
+    }
+    a {
+        text-decoration: underline;
+        color: inherit;
+        font-weight: 600;
+    }
+}
+@media screen and (max-width: 768px) {
+    img {
+        margin-top: 15px;
+    }
+    .photo4 {
+        max-height: 100%;
+    }
+}

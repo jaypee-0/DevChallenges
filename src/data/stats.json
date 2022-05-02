@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "numbers": "100",
+        "caption": "Posts"
+    },
+    {
+        "id": 2,
+        "numbers": "2242",
+        "caption": "Followers"
+    },
+    {
+        "id": 3,
+        "numbers": "1432",
+        "caption": "Following"
+    }
+]
