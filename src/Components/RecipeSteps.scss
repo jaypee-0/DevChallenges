@@ -1,0 +1,31 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&display=swap');
+
+.clock {
+    height: 48px;
+    width: 48px;
+}
+@media screen and (min-width: 768px) {
+    .RecipesSteps {
+        border-radius: 12px;
+        padding: 0.5rem 1rem;
+        background-color: white;
+        margin-left: auto;
+        width: 75%;
+        box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.09);
+    }    
+}
+@media screen and (max-width: 768px) {
+    .RecipesSteps {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .RecipesSteps {
+        width: 100%;
+    }
+}
+.icon {
+    height: 5;
+    width: 5;
+}

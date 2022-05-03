@@ -1,0 +1,62 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display&display=swap');
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+.App {
+    h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 48px;
+    }
+    h3 {
+        font-family: 'Playfair Display', serif;
+        font-size: 24px;
+        font-weight: bold;
+    }
+    h5 {
+        font-family: 'Playfair Display', serif;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 400;
+    }
+}
+.form-check-input {
+    width: 1.8rem!important;
+    height: 1.5rem!important;
+}
+.x2checkBox{
+    padding-right: 1.5rem;
+}
+.number {
+    padding: 0.3rem 0.8rem;
+    background-color: #F2994A;
+    border-radius: 6px;
+    color: white;
+    margin-bottom: auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+.footerB {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #BDBDBD;
+    font-style: italic;
+}
+
+@media screen and (min-width: 1024px) {
+    .App {
+        width: 75%!important;            
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .App {
+        h2 {
+            font-size: 24px;
+        }            
+        p {
+            font-size: 16px;
+        }               
+    }
+}
