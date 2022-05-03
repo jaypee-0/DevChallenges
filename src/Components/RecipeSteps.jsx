@@ -1,7 +1,6 @@
 import React from 'react';
 import data from '../data/data.json';
 import './RecipeSteps.scss'
-import { FontAwesomeIcon as FA } from '@fortawesome/react-fontawesome';
 import clock from '../Assets/clock.png'
 import fork from '../Assets/forkknife.png'
 
