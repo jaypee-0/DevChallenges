@@ -1,4 +1,4 @@
-<h1 align="center">IMY GALLERY</h1>
+<h1 align="center"> MY GALLERY</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -14,7 +14,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/GGLcS8VYIfcZDVldjVgo">
+    <a href="https://devchallenges.io/solutions/tlrdcMLxwhh8l7NSTVYe">
       Challenge
     </a>
   </h3>
@@ -43,7 +43,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/solutions/GGLcS8VYIfcZDVldjVgo) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/solutions/tlrdcMLxwhh8l7NSTVYe) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
