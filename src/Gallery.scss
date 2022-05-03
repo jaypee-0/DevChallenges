@@ -46,6 +46,10 @@ footer {
         text-decoration: underline;
         color: inherit;
         font-weight: 600;
+        &:hover {
+            color: inherit;
+            font-weight: 800;
+        }
     }
 }
 @media screen and (max-width: 768px) {
