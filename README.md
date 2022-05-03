@@ -32,7 +32,7 @@
 
 ## Overview
 
-![image](https://user-images.githubusercontent.com/32205725/166574383-3ac560bf-7cda-44a8-b7aa-86d4024b9b9b.png)
+![image](https://user-images.githubusercontent.com/32205725/166574424-4c3a9880-2ed6-4c43-9db5-3aad121133a3.png)
 
 
 ### Built With
