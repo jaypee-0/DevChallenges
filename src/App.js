@@ -10,9 +10,9 @@ function App() {
     <>
       <div id="App">
         <Navbar />
-        <div className="mt-5 container d-flex flex-column flex-md-row">
-          <div className="col-10 col-md-5 herotext mb-4">
-            <div className='w-75'>
+        <div className="mt-5 container d-flex flex-column justify-content-between flex-md-row">
+          <div className="col-10 col-md-4 herotext mb-4">
+            <div className=''>
             <h2 className='mb-4'>Modern interior</h2>
             <p>A full-Service residential & commercial interior design and staging company offering professional organizing & eco-services.</p>
             </div>
