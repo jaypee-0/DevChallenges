@@ -5,6 +5,16 @@
     height: 48px;
     width: 48px;
 }
+.caption {
+    color: #BDBDBD;
+    font-size: 12px;
+    font-weight: 500;
+}
+.name {
+    color: #333333;
+    font-size: 16px;
+    font-weight: 700;
+}
 @media screen and (min-width: 768px) {
     .RecipesSteps {
         border-radius: 12px;
@@ -24,8 +34,4 @@
     .RecipesSteps {
         width: 100%;
     }
-}
-.icon {
-    height: 5;
-    width: 5;
 }
