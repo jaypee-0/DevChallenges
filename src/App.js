@@ -100,6 +100,9 @@ function App() {
           <RecipesSteps />          
         </div>
       </div>
+      <footer>
+          <p className='text-center mt-5'>created by <a href="https://bit.ly/jaypee-github">Jaypee</a> - devChallenges.io</p>
+        </footer>
     </div>
   );
 }

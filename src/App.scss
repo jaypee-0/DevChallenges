@@ -60,3 +60,17 @@ p {
         }               
     }
 }
+footer {
+    p {
+        color: #A9A9A9;
+    }
+    a {
+        text-decoration: underline;
+        color: inherit;
+        font-weight: 600;
+        &:hover {
+            color: inherit;
+            font-weight: 800;
+        }
+    }
+}
