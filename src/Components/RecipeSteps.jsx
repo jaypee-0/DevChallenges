@@ -17,7 +17,7 @@ const RecipesSteps = () => {
             <div className='d-flex justify-content-between flex-md-column'>
                 {data.map((data) => (
                         <div className='d-flex mb-2' key={data.id}>
-                            <img className='clock mr-3' src={clock} alt="" />
+                            <img className='clock' src={clock} alt="" />
                             <div className="flex-column">
                                 <p className='caption my-0'>{ data.caption }</p>
                                 <p className='name my-0'>{ data.time }</p>
