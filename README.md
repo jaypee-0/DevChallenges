@@ -1,4 +1,4 @@
-<h1 align="center">Interior Consultant</h1>
+<h1 align="center">Checkout Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://interior-consultant-jaypee.netlify.app/">
+    <a href="https://checkout-page-jaypee.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/jaypee-0/DevChallenges/tree/INTERIOR-CONSULTANT">
+    <a href="https://github.com/jaypee-0/DevChallenges-Responsive-Developer/tree/CHECKOUT-PAGE">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/GGLcS8VYIfcZDVldjVgo">
+    <a href="https://devchallenges.io/solutions/EeqWE5G8Hzd1SfBGKrZJ">
       Challenge
     </a>
   </h3>
@@ -31,7 +31,6 @@
 
 
 ## Overview
-![image](https://user-images.githubusercontent.com/32205725/166160709-bb1fe31e-4d47-41dc-8c8d-7a6bb269ce76.png)
 
 
 ### Built With
@@ -42,7 +41,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/solutions/GGLcS8VYIfcZDVldjVgo) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/solutions/EeqWE5G8Hzd1SfBGKrZJ) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
