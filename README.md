@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/jaypee-0/DevChallenges/tree/MY-TEAM">
+    <a href="https://github.com/jaypee-0/DevChallenges-Responsive-Developer/tree/MY-TEAM">
       Solution
     </a>
     <span> | </span>
