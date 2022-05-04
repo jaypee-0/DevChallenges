@@ -36,15 +36,21 @@
     input[type= "checkbox"] {
         padding-right: 1.5rem;
     }
-    .caption{
-        font-size: 10px;
-    }
-    .name{
-        font-size: 14px;
-    }
 }
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .RecipesSteps {
         width: 100%;
+    }
+}
+@media screen and (max-width: 480px) { 
+    .clock {
+        height: 32px;
+        width: 32px;
+    }   
+    .caption{
+        font-size: 10px!important;
+    }
+    .name{
+        font-size: 12px!important;
     }
 }
