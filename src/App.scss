@@ -1,0 +1,119 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+$orcol: #F2994A;
+$graycol: #4E5150;
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #4E5150;
+}
+
+.CARD {
+    background-color: #F2F2F2;
+    border-radius: 12px;
+    .firstPrice {
+        color: $orcol;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .secondPrice {
+        color: $graycol;
+        font-size: 12px;
+    }
+    img {
+        border-radius: 20px;
+    }
+    button {
+        background-color: #E0E0E0;
+        border: unset;
+        border-radius: 4px;
+        padding: 0.1rem 0.4rem 0.3rem 0.4rem;
+    }
+    .btn-container {
+        border-radius: 12px;
+        border: 1px solid #828282;
+    }
+    .img-fluid-60 {
+        max-width: 40%;
+        height: auto;
+    }
+    hr {
+        margin: 0;
+    }
+}
+
+.form {
+    .fa-envelope, 
+    .fa-phone,
+    .fa-circle-user,
+    .fa-house,
+    .fa-city,
+    .fa-earth-africa,
+    .fa-inbox {
+        position: absolute;
+        left: 12px;
+        top: 42px;
+    }
+    input,
+    select {
+        border-radius: 12px;
+        padding: 0.75rem 0.5rem 0.75rem 2.25rem;
+        border: 1px solid #828282;
+        margin: 0.5rem 0;
+    }
+    input {
+        &::placeholder{
+            font-weight: 600;
+            font-size: 16px;
+        }
+    }
+    label {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    button {
+        border-radius: 12px;
+        color: white;
+        background-color: $orcol;
+        margin-left: auto;
+        border: 0;
+    }
+    input[type = "checkbox"] {
+        padding: 0.5rem 0.5rem;        
+    }
+}
+@media screen and (min-width: 768px) {
+    .cardx {
+        flex: 0 0 auto;
+        width: 33.3333333333%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .from {
+        input {
+            &::placeholder{
+                font-weight: 700;
+                font-size: 12px;
+            }
+        }
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .cardx {
+        flex: 0 0 auto;
+        width: 41.6666666667%;
+    }
+}
+footer {
+    p {
+        color: #A9A9A9;
+    }
+    a {
+        text-decoration: underline;
+        color: inherit;
+        font-weight: 600;
+        &:hover {
+            color: inherit;
+            font-weight: 700;
+        }
+    }
+}
