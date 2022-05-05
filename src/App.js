@@ -105,8 +105,8 @@ function App() {
               </div>
               <div className="col-12 col-md-7">
                 <div className="d-flex flex-row ">
-                  <div className="col-7 d-flex justify-content-md-end mr-4  align-self-center">
-                    <img className="img-fluid" src={person3} alt="" />
+                  <div className="col-7 d-flex justify-content-md-end align-self-center">
+                    <img className="img-fluid4" src={person3} alt="" />
                   </div>
                   <div className="col-5">
                     <div className="d-flex flex-column">                     
