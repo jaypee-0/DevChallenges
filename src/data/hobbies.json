@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Gaming",
+        "caption": "In my spare time, I love playing mobile games like CODM \n We can play some time. Here's my IGN: Saint",
+        "image": "../images/CODM.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Korean Series",
+        "caption": "Also, I love watching korean series. Started with Vincenzo then squid game and watched many others. There's just something korean movies have to offer.",
+        "image": "../images/korean.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Anime",
+        "caption": "And then anime, I am so in love with animes. Not all though, just animes without fillers and unnecessary contents. AOT's my favorite.",
+        "image": "../images/aot.jpg"
+    }
+]

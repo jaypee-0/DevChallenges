@@ -1,0 +1,54 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+//font-family: 'Roboto', sans-serif;
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: whitesmoke!important;
+}
+$gray3: #828282;
+.gray3{ color: #828282;}
+$gray2: #4F4F4F;
+.gray2{ color: #4F4F4F;}
+
+.App {
+    padding-top: 3rem;
+}
+.cardBackground {
+    background-color: white;
+    box-shadow: 5px 5px 8px #e2e2e2;
+    border-radius: 12px;
+}
+.Heading {   
+    h4 {
+       font-family: 'Roboto', sans-serif; 
+    } 
+        img {
+        border-radius: 12px;
+        height: auto;
+        max-width: 100%;
+    }
+    p {
+        color: $gray3;
+        font-size: 18px;        
+    } 
+    .number {
+        color: $gray2;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .Heading {
+        .jaypeeemail {
+            margin-right: 3rem;
+        }
+    }
+}
+@media screen and (max-width: 768px) {
+    .Heading {
+        img {
+            border-radius:50%;
+        }
+    }
+}

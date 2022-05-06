@@ -1,0 +1,19 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+body {
+    color: #828282!important;
+    font-size: 1rem!important;
+}
+
+.Hobbies {
+    img {
+        border-radius: 12px;
+    }
+}
+.w-85 {
+    width: 85%;
+}
+.w-60 {
+    width: 60%;
+}
