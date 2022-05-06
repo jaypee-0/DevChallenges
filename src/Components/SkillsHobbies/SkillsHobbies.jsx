@@ -72,7 +72,8 @@ const SkillsHobbies = () => {
       <p className="mt-5">
         So, I decided to take a personal challenge by coding each challenge a day from responsive developer path on devchallenges. Thus far, it's been wonderful.
       </p>
-      <p>Started with the first challenge and I am glad to say I have completed the path to a responsive developer on devchallenges.</p>
+      <p>Started with the first challenge and I am glad to say I have completed the path to a responsive developer on devchallenges. So I guess, up to the next phase.</p>
+      <p>Front-end developer challenge here I come.</p>
       </div>
       <div className="col-12 ml-auto pr-3 col-md-5">      
       <blockquote className="twitter-tweet">
