@@ -70,9 +70,9 @@ const SkillsHobbies = () => {
       <h2 className='fw-bolder'>Day 8</h2>
       <h5>8-Day streak of website programming from <a href="https://devchallenges.io/paths/responsive-web-developer">devchallenges.io</a></h5>
       <p className="mt-5">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum explicabo esse provident neque cum, voluptate eos nihil tempore vel suscipit quibusdam nobis delectus dolor? Similique, eaque delectus. Reprehenderit, fugiat error.
+        So, I decided to take a personal challenge by coding each challenge a day from responsive developer path on devchallenges. Thus far, it's been wonderful.
       </p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque sapiente aut quidem deserunt, nostrum voluptatem tempora illum at, eius quis itaque vitae nisi voluptatum possimus iste iure vero dolore suscipit!</p>
+      <p>Started with the first challenge and I am glad to say I have completed the path to a responsive developer on devchallenges.</p>
       </div>
       <div className="col-12 ml-auto pr-3 col-md-5">      
       <blockquote className="twitter-tweet">
