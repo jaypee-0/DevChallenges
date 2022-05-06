@@ -60,7 +60,7 @@ const SkillsHobbies = () => {
     </div>
     </div>
     {/* Blog Section */}
-    <div className='d-flex flex-column col-md-8 pl-4'>
+    <div className='d-flex flex-column col-md-8 pl-md-4'>
       {/* Blog */}
     <div className="Blog cardBackground px-3 py-3 mt-4 col-12">
       
@@ -75,7 +75,7 @@ const SkillsHobbies = () => {
       <p>Started with the first challenge and I am glad to say I have completed the path to a responsive developer on devchallenges. So I guess, up to the next phase.</p>
       <p>Front-end developer challenge here I come.</p>
       </div>
-      <div className="col-12 ml-auto pr-3 col-md-5">      
+      <div className="col-12 ml-lg-auto pr-3 col-md-5">      
       <blockquote className="twitter-tweet">
         <p lang="en" dir="ltr">So I&#39;ve decided to start a personal challenge 🤧<br/><br/>My goal is to code one website daily from <a href="https://t.co/67X27QaAyc">https://t.co/67X27QaAyc</a>. <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/react?src=hash&amp;ref_src=twsrc%5Etfw">#react</a> <a href="https://twitter.com/hashtag/frontend?src=hash&amp;ref_src=twsrc%5Etfw">#frontend</a></p>&mdash; The Mercenary (@Jay9ee_) <a href="https://twitter.com/Jay9ee_/status/1519793837346017280?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote>
       </div>
