@@ -92,8 +92,8 @@ const SkillsHobbies = () => {
         </div>
         <div className="experiencetexts col-7 col-sm-8">
           <p className="date">Mar/2021 - October/2021</p>
-          <h5 className="position">Network Engineer</h5>
-          <p className="work">I worked as a network enginner, using Javascript to contribute to the daily activities of the company's progress.</p>
+          <h5 className="position">Javascript Developer</h5>
+          <p className="work">I worked as a Javascript developer, using Javascript to contribute to the daily activities of the company's progress.</p>
         </div>
       </div>
       <div className="d-flex justify-content-between mt-2 col-md-11">
