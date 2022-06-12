@@ -51,6 +51,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [jaypee.netlify.app](https://jaypee.netlify.app/)
+- Website [jaypee.netlify.app](https://portfolio-jaypee.netlify.app/)
 - GitHub [@jaypee-0](https://github.com/jaypee-0)
 - Twitter [@jay9ee_](https://twitter.com/jay9ee_)
