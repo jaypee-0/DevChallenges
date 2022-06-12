@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/jaypee-0/DevChallenges/tree/MY-GALLERY">
+    <a href="https://github.com/jaypee-0/DevChallenges-Responsive-Developer/tree/MY-GALLERY">
       Solution
     </a>
     <span> | </span>
@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/32205725/165076921-09128c0f-567b-40de-84d2-5f285e3485a5.jpg)
+![image](https://user-images.githubusercontent.com/32205725/166574424-4c3a9880-2ed6-4c43-9db5-3aad121133a3.png)
 
 
 ### Built With
